@@ -1,0 +1,23 @@
+.background
+{
+    background-image: url(../assets/images/background.png);
+    background-repeat: no-repeat;
+    background-size: cover;
+    padding-bottom: 2%;
+}
+img,.context{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    
+}
+.balmas{padding-top: 1.5%;}
+.aif-logo
+{
+    img{width: 52%;}
+    background-color: rgba(255, 255, 255, 0.6);
+}
+.context{
+    background-color: rgba(255, 255, 255, 0.5);
+    width: 700px;
+}
